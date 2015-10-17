@@ -1,0 +1,148 @@
+<style>
+
+wrapper{
+                background: black;
+                margin: 0px auto;
+                height: 1300px;
+                width: 100%;
+}
+header{ 
+    margin: 0 px;
+    height: 200 px;
+    width: 100%;
+    background: #999;
+    float: left;
+    
+}
+.logo{
+    height: 200px;
+    width: 25%;
+    float: left;
+}
+.banner{
+    color: #D63030;
+    background: white;
+    height: 200px;
+    width: 50%;
+    float: left;
+}
+.social{
+    
+    height: 200px;
+    width: 25%;
+    float: left;
+    background: #009999;
+    color: aliceblue;
+}
+.fa fa-facebook{
+    font: 20;
+    color: darkblue;
+}
+    nav{ 
+    margin: 0px;
+    height: 30px;
+    width: 100%;
+    background: #CC0000;
+    float: left;
+
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
+}
+
+nav ul li {
+    
+    float: left;
+}
+nav ul li a:link, a:visited {
+ font-family:consolas;
+    
+    width: 324px;
+    font-weight: ;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    padding: 0px 144.6px 12px;
+}
+main{ color: aqua;
+    margin: 0px;
+    height: 600px;
+    width: 100%;
+    background: #444;
+    float: left;
+}
+#left{
+    background: green;
+    margin: 0px;
+    height: 600px;
+    width: 25%;
+    float: left;
+    
+}
+#content{
+    background: tomato;
+    margin: 0px;
+    height: 600px;
+    width: 50%;
+    float: left;
+}
+#right{
+    background: yellow;
+    margin: 0px;
+    height: 600px;
+    width: 25%;
+    float: left;
+}
+    
+footer{
+    margin: 0px;
+    height: 250px;
+    width: 100%;
+    background: #555;
+    float: left;
+
+}
+  .youtube{
+      margin: 0px;
+  height: 200px;
+  width: 25%;
+float: left;      
+  }
+.maps{
+height: 200px;
+    width: 50%;
+    float: left;
+}
+.text{
+color: yellow;
+    background: green;
+  margin: 0px;
+  height: 200px;
+  width: 25%;
+float: left;  
+
+}
+#copy{
+background: #CC0000;
+    color: white;
+margin: 0px;
+  height: 50px;
+  width: 50%;
+float: left;}
+#dev{
+    background: #CC0000;
+    color: white;
+margin: 0px;
+  height: 50px;
+  width: 50%;
+float: left;
+}
+
+    
+    
+    
